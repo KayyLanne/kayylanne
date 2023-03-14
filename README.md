@@ -13,7 +13,6 @@
   <a href="https://api.whatsapp.com/send/?phone=%2B5582999114189&text=Oie+kay+aqui%2C+mande+sua+mensagem+te+responderei+assim+que+possível%21&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/kaylanneregina" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaylanne.regina@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+  ![Snake animation](https://github.com/KayyLanne/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-![Snake animation](https://github.com/KayyLanne/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
