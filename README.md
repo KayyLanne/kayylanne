@@ -1,4 +1,4 @@
-## Oiii eu sou a Kaylanne Regina! 👩🏻‍💻🏳️‍🌈
+## Oiii eu sou a Kaylanne Regina - Futura Programadora Full-Stack! 👩🏻‍💻🏳️‍🌈
 
 <div align="center">
   <a href="https://github.com/kayylanne">
@@ -20,7 +20,8 @@
   <img align="center" alt="Kay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="center" alt="Kay-Figma" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436">
+  https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/600px-Figma-logo.svg.png?20190122211436
 </div>
   
   ![Snake animation](https://github.com/KayyLanne/KayyLanne/blob/output/github-contribution-grid-snake.svg)
