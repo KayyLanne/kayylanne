@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8257E6&size=40&center=true&vCenter=true&width=1000&lines=Prazer!+Meu+nome+é+Kaylanne+Regina!;UI/UX+Designer+e+Futura+Programadora+Full-Stack!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8257E6&size=37&center=true&vCenter=true&width=1000&lines=Prazer!+Meu+nome+é+Kaylanne+Regina!;UI/UX+Designer+e+Futura+Programadora+Full-Stack!;)](https://git.io/typing-svg)
 
 <br>
 
