@@ -1,14 +1,13 @@
-<h2> Olá, eu sou a Kaylanne Regina - UI/UX Designer e Futura Programadora Full-Stack! 👩🏻‍💻🏳️‍🌈 </h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8257E6&size=35&center=true&vCenter=true&width=1000&lines=Prazer!+Meu+nome+é+Kaylanne+Regina!;UI/UX+Designer+e+Futura+Programadora+Full-Stack!;)](https://git.io/typing-svg)
+
+<br>
 
 ## 📈 &nbsp;Estatísticas dos meus códigos ##
 
-<div align="left">
-  <a href="https://github.com/kayylanne">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayylanne&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayylanne&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
-  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayyLanne&theme=midnight_purple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayyLanne&theme=midnight_purple)
+
   
   
 ## 👨🏻‍💻 &nbsp;Minhas Habilidades! ##
@@ -33,6 +32,7 @@
   <a href = "mailto:kayylanne.regina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
 </div>
-  
  
   ![Snake animation](https://github.com/KayyLanne/KayyLanne/blob/output/github-contribution-grid-snake.svg)
+
+  
